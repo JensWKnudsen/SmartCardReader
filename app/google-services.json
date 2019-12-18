@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "220896754838",
+    "firebase_url": "https://lockeese.firebaseio.com",
+    "project_id": "lockeese",
+    "storage_bucket": "lockeese.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220896754838:android:bbffdcc35607112113d6b7",
+        "android_client_info": {
+          "package_name": "com.mhamdaoui.smartcardreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220896754838-rcd6bld25bbi4p5rd1uprotrqoe18191.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-x6nTEiZCpLDHE7HFUl6dBIzTiE6dHA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220896754838-rcd6bld25bbi4p5rd1uprotrqoe18191.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220896754838:android:8ed9b082a138c05413d6b7",
+        "android_client_info": {
+          "package_name": "com.p3.aaugroup301.lockeese"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220896754838-rcd6bld25bbi4p5rd1uprotrqoe18191.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-x6nTEiZCpLDHE7HFUl6dBIzTiE6dHA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220896754838-rcd6bld25bbi4p5rd1uprotrqoe18191.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220896754838:android:368b72e12925c81713d6b7",
+        "android_client_info": {
+          "package_name": "com.p5.aaugroup.smartcardreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220896754838-rcd6bld25bbi4p5rd1uprotrqoe18191.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-x6nTEiZCpLDHE7HFUl6dBIzTiE6dHA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220896754838-rcd6bld25bbi4p5rd1uprotrqoe18191.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
